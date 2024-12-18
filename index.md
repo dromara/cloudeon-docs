@@ -17,3 +17,9 @@ CloudEon 将基于 Kubernetes 的资源安装部署开源大数据组件，实�
 ##  🍓 实现思路
 ![图片.png](images/silu.png)
 
+## Dromara 全家福
+
+社区仓库地址: [dromara开源社区](https://gitee.com/organizations/dromara/projects)
+
+
+![输入图片说明](https://foruda.gitee.com/images/1706071866226295002/68cffcf6_1766278.png "屏幕截图")
